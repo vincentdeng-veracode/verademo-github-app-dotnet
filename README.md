@@ -8,7 +8,7 @@ awef
 Setup API ID and Key in Pipeline Variables –
 - VERACODE_API_ID
 - VERACODE_API_KEY
-
+awef
 Once build completes you can download results.json from build summary screen or view them in the console output for the Pipeline scanner step.  
 
 Check the results.json into source code and reference it in the command to break build on new findings. 
